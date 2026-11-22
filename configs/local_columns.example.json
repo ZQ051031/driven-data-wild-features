@@ -1,0 +1,5 @@
+{
+  "metadata": "metadata.csv",
+  "columns": {"id": "child_identifier", "audio_path": "local_wav_path", "split": "partition"},
+  "tabular": ["your_screening_score_1", "your_screening_score_2"]
+}
